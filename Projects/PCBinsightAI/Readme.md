@@ -45,3 +45,17 @@ Imagine the impact on:
 - 🔬R&D: Providing insights into common defect patterns during the design and testing phases.
 
 - 🔋Maintenance: Helping technicians diagnose and address PCB issues efficiently.
+
+---
+
+<img width="1410" alt="ss_1" src="https://github.com/RATHOD-SHUBHAM/GenAI-3/assets/58945964/5d1a4c4f-7e5e-4a95-b8e8-ee824920f914">
+
+---
+
+<img width="2271" alt="SS" src="https://github.com/RATHOD-SHUBHAM/GenAI-3/assets/58945964/61d84e5f-1ed2-486e-aec3-3a8740eb857d">
+
+---
+
+<img width="2207" alt="ss_2" src="https://github.com/RATHOD-SHUBHAM/GenAI-3/assets/58945964/ce6731a6-1e96-451f-81ea-d572f4631428">
+
+---
