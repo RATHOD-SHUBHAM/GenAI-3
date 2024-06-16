@@ -1,0 +1,7 @@
+youtube-transcript-api
+streamlit
+openai
+python-dotenv
+pathlib
+google-generativeai
+langchain
