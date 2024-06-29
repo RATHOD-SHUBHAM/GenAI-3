@@ -1,0 +1,9 @@
+# Install pyaudio
+    https://pypi.org/project/PyAudio/
+
+-- API docs:
+    https://people.csail.mit.edu/hubert/pyaudio/docs/
+
+# Recorder Device:
+    - https://medium.com/picovoice/add-voice-interfaces-to-python-apps-in-minutes-4398e24a7986
+    - https://pypi.org/project/pvrecorder/
