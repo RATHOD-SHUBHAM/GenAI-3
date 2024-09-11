@@ -1,0 +1,108 @@
+MATCH p=()-[]->() RETURN p LIMIT 25;
+
+MATCH p=()-[:Sister_Of]->() RETURN p LIMIT 25;
+
+MATCH(Nush:Person{name:'nushka'}),(Krish:Person{name:'Krish Naik'}) CREATE(Nush)-[:Sister_Of]->(Krish);
+
+MATCH (n:Person) RETURN n LIMIT 25;
+
+MATCH p=()-[:ACTED_IN]->() RETURN p LIMIT 25;
+
+MATCH(keanu:Person{name:'Keanu Reeves'}),(Matrix:Movies{title:'The Matrix'})
+
+CREATE(keanu)-[:ACTED_IN]->(Matrix);
+
+MATCH p=()-[:ACTED_IN]->() RETURN p LIMIT 25;
+
+MATCH(Robert:Person{name:'Robert Downy Jr'}),(Ironman:Movies{title:'Iron Man'})
+
+CREATE(Robert)-[:ACTED_IN]->(Ironman);
+
+MATCH (n:Movies) RETURN n LIMIT 25;
+
+MATCH(Robert:Person{name:'Robert Downy Jr"'}),(Ironman:Movies{title:'Iron Man'})
+
+CREATE(Robert)-[:ACTED_IN]->(Ironman);
+
+MATCH(Robert:Person{name:'Robert Downy Jr"'}),(Ironman:Movies{title:'Iron Man'}) 
+CREATE(Robert)-[:ACTED_IN]->(Ironman);
+
+MATCH(Robert:Person{name:'Robert Downy Jr"'}),(Ironman:Movies{title:'Iron Man'}) CREATE(Robert)-[:ACTED_IN]->(Ironman);
+
+MATCH p=()-[]->() RETURN p LIMIT 25;
+
+MATCH (n) RETURN n LIMIT 25;
+
+MATCH (n:Movies) RETURN n LIMIT 25;
+
+MATCH (n) 
+WHERE n.born IS NOT NULL
+RETURN DISTINCT "node" as entity, n.born AS born LIMIT 25
+UNION ALL 
+MATCH ()-[r]-() 
+WHERE r.born IS NOT NULL
+RETURN DISTINCT "relationship" AS entity, r.born AS born LIMIT 25;
+
+MATCH (n) 
+WHERE n.title IS NOT NULL
+RETURN DISTINCT "node" as entity, n.title AS title LIMIT 25
+UNION ALL 
+MATCH ()-[r]-() 
+WHERE r.title IS NOT NULL
+RETURN DISTINCT "relationship" AS entity, r.title AS title LIMIT 25;
+
+MATCH (n) 
+WHERE n.released IS NOT NULL
+RETURN DISTINCT "node" as entity, n.released AS released LIMIT 25
+UNION ALL 
+MATCH ()-[r]-() 
+WHERE r.released IS NOT NULL
+RETURN DISTINCT "relationship" AS entity, r.released AS released LIMIT 25;
+
+MATCH(Robert:Person{name:'Robert Downy Jr"'}),(Ironman:Movies{title:'Iron Man'}) CREATE(Robert)-[:ACTED_IN]->(Ironman);
+
+MATCH (n:Movies) RETURN n LIMIT 25;
+
+MATCH(Robert:Person{name:'Robert Downy Jr"'}),(Ironman:Movies{title:'IronMan'}) CREATE(Robert)-[:ACTED_IN]->(Ironman);
+
+MATCH(Robert:Person{name:'Robert Downy Jr"'}),(Ironman:Movies{title:'IronMan'}) CREATE(Robert)-[:ACTED_IN]->(Ironman);
+
+MATCH (n:Person) RETURN n LIMIT 25;
+
+MATCH (n) RETURN n LIMIT 25;
+
+CREATE(Ironman:Movies{title:'Iron Man', released:2008});
+
+CREATE(Matrix:Movies{title:'The Matrix', released:1999});
+
+MATCH (n:Person) RETURN n LIMIT 25;
+
+MATCH (n:Person) RETURN n LIMIT 25;
+
+MATCH (n:Person) RETURN n LIMIT 25;
+
+CREATE(Krish:Person{name:'Krish Naik', born:1989});
+
+MATCH (n:Person) RETURN n LIMIT 25;
+
+CREATE(keanu:Person {name:'Keanu Reeves', born: 1964});
+
+MATCH (n) 
+WHERE n.name IS NOT NULL
+RETURN DISTINCT "node" as entity, n.name AS name LIMIT 25
+UNION ALL 
+MATCH ()-[r]-() 
+WHERE r.name IS NOT NULL
+RETURN DISTINCT "relationship" AS entity, r.name AS name LIMIT 25;
+
+MATCH (n) RETURN n LIMIT 25;
+
+MATCH (n:Person) RETURN n LIMIT 25;
+
+MATCH (n:Person) RETURN n LIMIT 25;
+
+CREATE(Robert:Person{name: 'Robert Downy Jr', born : 1970});
+
+MATCH (n:Person) RETURN n LIMIT 25;
+
+CREATE(Nush:Person{name:'nushka', born:2000});
