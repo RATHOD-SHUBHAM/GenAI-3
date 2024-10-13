@@ -3,6 +3,17 @@ This repository is my platform to learn, experiment, and innovate with LLMs. Her
 
 ---
 
+## Content
+
+1] Langchain Expression Language.
+2] Advance RAG:
+  i] Hybrid RAG.
+  ii] ReRanking.
+  iii] Graph RAG.
+3] Agents.
+
+---
+
 ## Projects
 
 1] 🌟 PCBinsightAI: Your New PCB Defect Detective 🌟
