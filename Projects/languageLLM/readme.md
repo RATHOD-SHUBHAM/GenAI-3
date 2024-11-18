@@ -57,3 +57,6 @@ Once the app is running, you can interact with the user interface to:
     * OpenAI GPT - For LLM-based processing and responses.
     * Streamlit - For building the interactive web application.
     * Chroma/Pinecone/FAISS (or similar) - For storing and querying document embeddings.
+
+
+<img width="1403" alt="Screenshot 2024-11-18 at 1 11 08 PM" src="https://github.com/user-attachments/assets/3600616b-4c6e-4264-ba93-b5edf1c5eb05">
