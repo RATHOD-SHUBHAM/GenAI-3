@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-openai
+langchain-text-splitters
+langchain-huggingface
+sentence_transformers
+pypdf
+langchain_chroma
+elevenlabs
+SpeechRecognition
+PyAudio
+openai-whisper
+streamlit
+streamlit-audiorec
+openai
