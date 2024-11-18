@@ -5,7 +5,7 @@ from elevenlabs.client import ElevenLabs
 
 HOME = os.getcwd()
 
-ELEVENLABS_API_KEY = "sk_1bb4715774cd7beac57f1db38c4922226622c6251c30545d"
+ELEVENLABS_API_KEY = ""
 
 if not ELEVENLABS_API_KEY:
     raise ValueError("ELEVENLABS_API_KEY environment variable not set")
