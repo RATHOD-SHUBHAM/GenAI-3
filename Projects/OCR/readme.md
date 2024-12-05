@@ -58,3 +58,7 @@ This will start a local Streamlit server, and you can access the app at http://l
 1. Groq: High-performance AI accelerator for fast processing.
 2. Llama 3.2 Vision Model: Advanced OCR model for accurate text recognition.
 3. Streamlit: Simplifies the creation of interactive web applications.
+
+---
+
+![app](https://github.com/user-attachments/assets/4924581b-ef09-4e95-ac9c-e2eb601e8a73)
