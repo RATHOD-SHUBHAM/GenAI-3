@@ -162,7 +162,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # # Footer
-    # st.markdown("---")
-    # st.markdown(
-    #     "Made with ❤️ from Shubham Shankar using Llama Vision Model")
