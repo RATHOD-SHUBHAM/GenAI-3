@@ -1,0 +1,13 @@
+openai 
+langchain 
+langchain_core 
+langchain_openai
+numpy
+opencv-python
+pillow
+rembg
+requests
+uvicorn
+fastapi
+azure-storage-blob
+git clone https://github.com/KiranPranay/swapseed
