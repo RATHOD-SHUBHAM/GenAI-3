@@ -1,0 +1,261 @@
+﻿SMG & CPS GTM Deck FAQs	
+1. Describe Autonomous vehicle solutions in Brief ?
+Ans:
+Data Services and Insights
+Manage the vast amounts of data generated in the process of developing AVs through a comprehensive solution addressing  compute infrastructure architecture, data management solution, AI workbench, and toolkit.
+
+Support large file data ingestion and multiple AV data formats
+Ensure your global teams collaborate with ease and adopt agile development practices
+Quicker access to processed data improving data scientist productivity 
+Seamless integration with existing technology stack
+
+Data Annotation Studio (DAS)
+
+Curate large and varying datasets needed to train the algorithms by providing the user with cost-effective workflow orchestration, model management, and best-in-class AI tools. It offers flexibility, scalability, and configurability to quickly generate high quality annotated data at scale though a high level of automation. 
+
+Quickly adapt to perception requirements from multi-sensor data
+Quickly scale up AI development programs with Terabytes of Data
+Improve Accuracy of AI Models with High Quality Training Data
+Significantly reduce the cost of generating Training Data for AI
+
+SMARTS & Smart Validation
+
+Drive Less, Simulate More – Smart simulation solution that can generate scenarios, identify edge cases, maximise test coverage and automate test suite execution
+
+    • End-to-end simulation-based validation solution for automated driving systems (ADS) 
+
+Near Real Time Insights
+Gen AI assisted scalable scenario data collection
+AI edge case
+identification
+Reduce Physical Testing by 55%
+
+2. Explain MobilityAI : In-vehicle Generative AI Powered Assistant?
+
+Ans:
+
+Domain Specific Custom LLM designed to create Safe, Comfortable, Personalized and Engaging Driving Experiences
+
+Autonomous Co-Pilot
+    • Navigational Assistant 
+    • Autonomous Parking Smart Summon
+    • Fuel/charging locator
+
+Vehicles Controls
+    • Climate control
+    • Driving mode changes
+    • Keyless Entry
+
+In-Vehicles Experiences
+    • Personalized driving profiles
+    • Media/Lightining/comfort controls
+    • Mobility concierge services
+
+Mobility Ecosystem
+
+    • Make Reservations
+    • Place order for services 
+    • contactless payments
+    • In-car Meetings/car as extended living space
+
+Vehicle Services
+
+    • Maintenance alerts and recommendations
+    • Service scheduling
+    • Interactive Troubleshooting
+
+3. Describe smart mobility suite solutions to fast track the transformation journey?
+
+Connected Mobility Experience
+    • Solutions for enabling personalized connected vehicle experience. Built on the connected vehicle cloud.
+    • Mobility features across various categories such as Safety & Security, Remote Functions etc.
+
+Smart Mobility Insights
+
+Insights enable OEMs and Partners to have actionable insights from data received from Connected Vehicle Ecosystem. 
+
+One-stop-shop for gaining insights into connected vehicle customers and vehicles.
+
+Data Monetization Toolkit
+
+Data monetisation through TCS Data Marketplace platform integrated with Consent Management and Subscription management platforms
+
+Enables OEMs and Partners  to have New Business models for data monetization.
+
+Mobility Ecosystems
+
+* Broker mutualistic relationships between players in the ecosystem(s) by Identifying prospective partners, enabling profitable propositions and building platforms & integrations via collaboration & data Innovation
+
+
+* Connected mobility solutions enable the mobility ecosystem players to provide a personalized experience , monetize the data and enable new business models
+
+
+Different Electrification offerings that we offer?
+
+    A) Electrification of Mobility
+    • Electrification roadmap and strategy
+    • E-powertrain design
+    • BMS 
+    • Electric retro fit
+    • Bi-directional charging
+    • Field Services
+    • Energy Management
+    • Fleet Optimization
+    • Software defined vehicles
+    • Last mile electrification
+
+   2. Battery and related ecosystem
+    • Battery material research
+    • Battery cells and Pack Design
+    • Battery Simulation & Integration
+    • Pack test and validation
+    • Battery Passport 
+    • Service and warranty management 
+    • Battery Energy Storage System
+(BESS)
+    • Recycling and 2nd life
+    • Operating sustainable Giga factories
+  
+     3. Charger and charging ecosystem
+    • Design, prototyping, testing and launch
+    • Platform software solutions
+    • Subscription Management and roaming services
+    • UI/UX design and implementation services
+    • Secure Grid Integration & V2X
+    • Protocol & Compliance - Upgrades, New Use case, Integration
+    • Testing & Validation Solutions
+
+   4. emobility and Energy Ecosystem
+    • Renewable Integration
+    • Green Operation – Electrification of the supply chain
+    • Using eMobility devices as source of Energy
+    • V2X – V2L, V2V, V2H, V2G
+    • Virtual Power Plant
+    • Micro-Grid
+    • Energy Cloud
+    • DER aggregation
+    • EV charging, Alternate Fuels
+
+5. Hydrogen Ecosystem
+    • Production Optimization
+    • Upstream – analytics, power source integration, asset health monitoring etc.
+    • Mid-stream – carbon reduction in distribution and storage
+    • Downstream – End use study
+    • Hydrogen passport
+    • Supply chain management
+    • Hydrogen value chain and Synthetic fuels for aviation 
+
+    B) One stop shop for Sustainable Electrification
+    C) Quick to scale solutions
+    D) Multi country Nuances
+    E) Improved Customer Experience
+    F) Circularity 
+    G) Differentiated Use Cases
+    H) New Revenue Streams
+    I) Protocol Standards and regulation
+
+Explain key features & outcomes for Battery Passport?
+
+Battery Passport is a transformative solution, offering a comprehensive digital capabilities to track the life cycle of batteries for promoting sustainable battery use and responsible handling.
+
+Key Features : 
+    • Monitor the chain of custody with comprehensive track and trace capabilities.​
+    • Carry out due diligence.​
+    • Define instructions for battery end-of-life management to end users.​
+    • Build product documentation.​
+    • Prove compliance.​
+    • Define instructions for battery end-of-life management to end users.​
+    • Build robust and accurate reports for legislative bodies.​
+
+Key Outcomes :
+    • Enhanced Traceability and Transparency
+    • ​​Supply Chain Efficiency.
+    • Sustainability and Circular Economy
+    • Regulatory Compliance and Risk Management
+    • Technological Integration​​ and Digitalization.
+
+Industries applicable 
+    • OEM
+    • Energy Storage
+    • Battery Manufacturer
+    • Battery Recyclers
+
+
+Describe Hydrogen Passport
+
+Verifiable, secure & reliable traceability protocol propagating fairness and open access for all market participants  with a unified public disclosure standards complying to major Green Hydrogen standards globally.
+
+Key Features
+    • Tracking & Forecasting of Renewable Power Generation​​
+    • Policy Compliance of Temporal Matching, ​& Deliverability​​
+    • Calculating Power Equivalent Green-H2 Production​​
+    • Monitoring Critical Parameters for H2 Output​​
+    • Issue, tagging and tracking of Green Hydrogen Tokens​.​
+
+Key Outcomes
+    • Smart RE Intermittency Management ​​
+    • Parametric Analysis of G-H2 Plant​​
+    • H2 Lifecycle Co2 analysis​​
+
+How your EV Charging - charging core experience should be? 
+
+The platform offers a range of useful features to support an advanced and user-friendly EV charging network like, for example, a ‘zero-touch’ experience at unmanned, self-service charging stations. 
+
+Key Features
+
+    • Charging Station Set Up
+    • Online as well as Offline Charging
+    • Integration Parking & Occupancy Charges
+    • Tap & Go’ Charging via RFID Management
+    • Booking & Cancellation
+    • Roaming integration
+    • Remote Charger Ops via OCPP 
+    • Active demand response participation
+    • Demand monitoring & management
+    • Smart energy orchestration
+    • Ecosystem integration of value chain participant
+    • Energy arbitrage and utility incentive programs
+    • Electrification ROI and sustainability measures
+
+    • Tap & Go’ Charging via RFID Management
+
+Key Outcomes
+
+    • Ease of use and interoperability with multiple types and brands of charge points
+    • Offering EV users with hyper-personalized experience
+
+
+Where all the virtual Power Plants used (EV VPP)?
+
+EV Virtual Power Plant (VPP) is an intelligent and sustainable solution that aggregates energy stored in idle Electric Vehicle Batteries to supply power to the grid thereby improving grid stability and resiliency
+
+Key Features ......
+
+    • Active demand response participation
+    • Demand monitoring & management
+    • Smart energy orchestration
+    • Ecosystem integration of value chain participant
+    • Energy arbitrage and utility incentive programs
+    • Electrification ROI and sustainability measures
+
+Key Outcomes .....
+
+    • Increased revenue through new business models
+    • Better load management
+    • Greater integration of renewable energy
+    • Optimized energy costs 
+    • Grid stability and resiliency 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

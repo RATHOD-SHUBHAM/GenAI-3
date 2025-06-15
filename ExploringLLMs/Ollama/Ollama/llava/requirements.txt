@@ -1,0 +1,7 @@
+ollama
+langchain
+langchain_community
+requests
+pillow
+opencv-python
+moviepy
