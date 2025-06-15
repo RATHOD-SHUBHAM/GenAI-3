@@ -1,0 +1,7 @@
+torch
+pillow
+transformers
+huggingface_hub
+av
+sentencepiece
+protobuf
